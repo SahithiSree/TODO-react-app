@@ -1,0 +1,21 @@
+#todo {
+    background-color: yellowgreen;
+    border-radius: 50px;
+    width: 300px;
+}
+
+#done {
+    background-color: tomato;
+    border-radius: 50px;
+    width: 300px;
+}
+
+#addTask {
+    width: 70px;
+    height: 30px;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: white;
+    font-style: bold;
+    background-color: teal;
+}
